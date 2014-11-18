@@ -1,0 +1,2 @@
+var CheeseArray = ["Brie", "Mozzarella", "Gouda"];
+  console.log("My favourite cheese is" + " " + (CheeseArray[0])+ ". " + "My second favourite cheese is" + " " + (CheeseArray[1]) + ". " + "My third favourite cheese is" + " " + (CheeseArray[2]) + ".")
